@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hey;) I'm AMIR Welcome to my github 
 
-<!--
-**am-IRH/AM-IRH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```js
+const amir = {
+    pronouns: "he" | "him",
+    code: ["JS", "TS"],
+    askMeAbout: ["web dev", "music", "game"],
+    technologies: {
+        frontEnd: {
+            ["HTML", "CSS", "bootstrap", "REACT"]
+        },
+        backEnd: {
+            js: ["node", "express"]
+        },
+    }
+};
+```
